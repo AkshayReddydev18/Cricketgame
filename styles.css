@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background-image: url(./images/cricketbg.webp);
 }
 .choice-button {
   height: 100px;
